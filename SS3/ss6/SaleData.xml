@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="SaleData.xsl"?>
+<CottonDesk>
+    <SalePerson>
+        <Product>Monitor</Product>
+        <Name>Harry Diana</Name>
+        <Age>23</Age>
+        <Sales>4000</Sales>
+    </SalePerson>
+    <SalePerson>
+        <Product>Laptop</Product>
+        <Name>Thanh</Name>
+        <Age>32</Age>
+        <Sales>20000</Sales>
+    </SalePerson>
+    <SalePerson>
+        <Product>laptop</Product>
+        <Name>Dat Smok</Name>
+        <Age>19</Age>
+        <Sales>35000</Sales>
+    </SalePerson>
+</CottonDesk>

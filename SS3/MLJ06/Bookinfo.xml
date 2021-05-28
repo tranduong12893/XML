@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="BookInfo.css" ?>
+<Book>
+    <BookDetail>
+        <TitleOetail>
+            <Title>Head First Java, 2nd Edition</Title>
+            by
+            <Authors>Kathy Sierra, Bert Bates</Authors>
+            (<EditionInfo>PaperBack</EditionInfo> -
+            <PrintDate> Feb 9, 2005 </PrintDate>)
+        </TitleOetail>
+        <Price>
+            New Price:
+            <NewPrice>$29.67</NewPrice>
+            Old Price:
+            <oldPrice>$18.96</oldPrice>
+        </Price>
+        <OrderInfo>
+            Get it by
+            <GetDate> Tuesday, Feb. 27</GetDate>,
+            if you order in the next
+            <Hours>57 hours and</Hours>
+            <Minutes>43 minutes</Minutes>.
+        </OrderInfo>
+        <Edition>Other Editions:
+            <EditionType>PaperBack</EditionType>
+        </Edition>
+    </BookDetail>
+    <BookDetail>
+        <TitleDetail>
+            <Title>Efeetlye Java Programming Language Guide</Title>
+            by
+            <Authors>Joshua Bloch</Authors>
+            (<EditionInfo>Paperback</EditionInfo> -
+            <PrintDate> Jun 5, 2001</PrintDate>
+        </TitleDetail>
+        <Price>
+            New Price:
+            <NewPrice>>$4S. 49</NewPrice>
+            old Price:
+            <oldPrice>S38.58</oldPrice>
+        </Price>>
+        <OrderInfo>
+            Get it by
+            <GetDate>
+                Tuesday, Feb. 27</GetDate>,
+            if you order in the next
+            <Hours>37 hours and</Hours>
+            <Minutes>47 ninutes</Minutes>.
+        </OrderInfo>
+        <Edition>Other Editions:
+            <EditionType>PaperBack</EditionType>>
+        </Edition>
+    </BookDetail>>
+    <BookDetail>
+        <TitleDetail>
+            <Title>5OP Sun Certified Prog earner for Java 5 Study Guide (Exaa 310-05S) (Certification Press Study Guides)
+            </Title>
+            by
+            <Authors>Katherine Sierra, Bert Bates</Authors>
+            (<EditionInfo>PaperBack</EditionInfo>-
+            <PrintDate>
+                Dec 21, 2005
+            </PrintDate>)
+        </TitleDetail>
+        <Price>
+            New Price:
+            <NewPrice>$32.99</NewPrice>
+            Old Price:
+            <oldPrice>$38.87</oldPrice>
+        </Price>
+    <OrderInfo>
+    Get it by
+    <GetDate>
+        Tuesday, Feb. 27
+    </GetDate>, if you order in the next
+        <Hours>37 hours and</Hours>
+        <Minutes>47 Minutes</Minutes>.
+    </OrderInfo>
+        <Edition>Other Editions:
+            <EditionType>PaperBack, Dlgltal</EditionType>
+        </Edition>
+    </BookDetail>
+    <BookDetail>
+        <TitleDetail>
+            <Title>Deglnning Programing with Java for tamles (For Duanies (Coaputer/Tech) )</Title>
+            by
+            <Authors>Barry Burd</Authors>
+            (<EditionInfo>PaperOack</EditionInfo> -
+            <PrintDate>
+                April 15, 2M5
+            </PrintDate>)
+        </TitleDetail>
+        <Price>
+            New Price:
+            <NewPrice>$17.24</NewPrice>
+            Old Price:
+            <OldPrice>$i3.36</OldPrice>
+        </Price>
+        <OrderInfo>
+            Get it by
+            <GetDate>
+                Tuesday, Feb. 27</GetDate>, if you order in the next
+            <Hours>37 hours and</Hours>
+            <Minutes>17 Minutes</Minutes>
+        </OrderInfo>
+        <Edition>Other Editions:
+            <EdltionType>PaperBack, Digital</EdltionType>
+        </Edition>
+    </BookDetail>
+</Book>
+
+
